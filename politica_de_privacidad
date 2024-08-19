@@ -1,47 +1,38 @@
 Política de Privacidad
 
 1. Introducción
-
 Bienvenido a nuestra aplicación de ventas y visitas móviles. Esta política de privacidad describe cómo recopilamos, utilizamos, compartimos y protegemos la información de los usuarios en nuestros módulos de vendedores y visitadores. Al utilizar nuestra aplicación, aceptas las prácticas descritas en esta política.
 
 2. Información que Recopilamos
-
 Nuestra aplicación recopila la siguiente información:
 
 Datos de usuario: Incluye información personal como nombre, dirección de correo electrónico y cualquier otra información proporcionada durante el uso de la aplicación.
-Geolocalización: Recopilamos datos de ubicación en tiempo real para actualizar la geolocalización de los clientes y realizar un mapeo preciso de productos.
-Datos de pedidos y cobranzas: Incluye detalles sobre los pedidos realizados, cobranzas, productos, clientes, y su estatus de envío al servidor RCM2.
+Geolocalización precisa: Recopilamos datos de ubicación en tiempo real con un alto nivel de precisión para actualizar la geolocalización de los clientes y realizar un mapeo exacto de productos. El uso de estos datos es temporal y se limita al momento de realizar la acción específica.
+Datos de pedidos y cobranzas: Incluye detalles sobre los pedidos realizados, cobranzas, productos, clientes, y su estatus de envío.
 Datos de visitas médicas: Recopilamos información sobre las visitas a médicos, incluyendo la especialidad, la fecha y la hora de la visita, y los médicos visitados.
 3. Cómo Utilizamos la Información
-
 Utilizamos la información recopilada para los siguientes propósitos:
 
-Procesamiento de pedidos y cobranzas: Para gestionar los pedidos y cobranzas de los clientes, actualizarlos en el servidor RCM2 y asegurar la correcta entrega y cobro de productos.
+Procesamiento de pedidos y cobranzas: Para gestionar los pedidos y cobranzas de los clientes y asegurar la correcta entrega y cobro de productos.
 Seguimiento de visitas médicas: Para registrar y gestionar las visitas a médicos, facilitando la planificación y seguimiento de las visitas futuras.
-Actualización de geolocalización: Para asegurar que la ubicación de los clientes esté actualizada, permitiendo un servicio más preciso.
+Actualización de geolocalización precisa: Para asegurar que la ubicación de los clientes esté actualizada, permitiendo un servicio más preciso. Los datos de ubicación se utilizan solo mientras son necesarios para cumplir con esta función específica.
 Mejora del servicio: Para analizar el uso de la aplicación y mejorar su funcionalidad y experiencia de usuario.
-4. Compartir Información
 
-Tu información es compartida únicamente con el servidor web RCM2 para sincronizar y almacenar los datos relevantes. No compartimos tu información personal con terceros sin tu consentimiento, salvo que sea necesario para cumplir con una obligación legal.
+4. Uso de SDKs y Bibliotecas de Terceros
+Nuestra aplicación puede utilizar SDKs y bibliotecas de terceros para mejorar la funcionalidad y experiencia del usuario. Es posible que estos SDKs recojan y transfieran datos de usuario fuera del dispositivo, como información de geolocalización, identificadores de dispositivo, o datos de uso. Estos datos son manejados de acuerdo con las políticas de privacidad de los proveedores de dichos SDKs.
 
-5. Responsabilidad del Usuario
+Nos aseguramos de que todos los SDKs y bibliotecas de terceros utilizados en nuestra aplicación cumplan con las normativas de privacidad y protejan adecuadamente la información de los usuarios. Sin embargo, es tu responsabilidad revisar las políticas de privacidad de estos terceros para entender cómo manejan tus datos.
 
-El usuario es responsable de enviar correctamente los datos al servidor RCM2. La aplicación ofrece las herramientas necesarias para realizar estos envíos, pero la veracidad y puntualidad de la información enviada recaen en el usuario.
+5. Compartir Información con Terceros
+
+Proveedores de Servicios: Podemos compartir su información con terceros que prestan servicios en nuestro nombre, como Google Maps para geolocalización. Estos terceros están obligados a proteger su información y solo pueden utilizarla para los fines especificados.
+Requisitos Legales: Podemos divulgar su información si así lo exige la ley o si creemos de buena fe que dicha acción es necesaria para cumplir con una obligación legal.
 
 6. Seguridad de la Información
+Tomamos medidas razonables para proteger su información personal contra acceso no autorizado, alteración, divulgación o destrucción. Sin embargo, ningún método de transmisión por internet o almacenamiento electrónico es completamente seguro, por lo que no podemos garantizar la seguridad absoluta.
 
-Tomamos medidas técnicas y organizativas para proteger tu información contra el acceso no autorizado, la pérdida, el uso indebido o la alteración. Sin embargo, no podemos garantizar la seguridad absoluta de los datos transmitidos electrónicamente.
-
-7. Tus Derechos
-
-Tienes derecho a acceder, corregir o eliminar tus datos personales en cualquier momento. Para ejercer estos derechos, por favor, contacta con nosotros a través de los medios proporcionados en la aplicación.
-
-8. Cambios en la Política de Privacidad
-
+7. Cambios en la Política de Privacidad
 Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Cualquier cambio será publicado en esta página y se te notificará a través de la aplicación.
 
-9. Contacto
-
-Si tienes alguna pregunta o inquietud sobre nuestra política de privacidad, no dudes en contactarnos a través de los medios proporcionados en la aplicación.
-
-Esta política de privacidad cubre los aspectos clave relacionados con el manejo de datos en tu aplicación. Puedes adaptarla según las necesidades específicas de tu proyecto.
+8. Contacto
+Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad o nuestras prácticas, puede contactarnos en neorvd@gmail.com.
