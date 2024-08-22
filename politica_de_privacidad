@@ -1,38 +1,31 @@
-Política de Privacidad
+Política de Privacidad de Farmedical - Venta Móvil
 
-1. Introducción
-Bienvenido a nuestra aplicación de ventas y visitas móviles. Esta política de privacidad describe cómo recopilamos, utilizamos, compartimos y protegemos la información de los usuarios en nuestros módulos de vendedores y visitadores. Al utilizar nuestra aplicación, aceptas las prácticas descritas en esta política.
+Última actualización: 2024-08-22
 
-2. Información que Recopilamos
-Nuestra aplicación recopila la siguiente información:
+En "Farmedical - Venta Móvil", respetamos su privacidad y estamos comprometidos a proteger sus datos personales. Esta política de privacidad describe cómo recopilamos, utilizamos y salvaguardamos su información cuando usa nuestra aplicación.
 
-Datos de usuario: Incluye información personal como nombre, dirección de correo electrónico y cualquier otra información proporcionada durante el uso de la aplicación.
-Geolocalización precisa: Recopilamos datos de ubicación en tiempo real con un alto nivel de precisión para actualizar la geolocalización de los clientes y realizar un mapeo exacto de productos. El uso de estos datos es temporal y se limita al momento de realizar la acción específica.
-Datos de pedidos y cobranzas: Incluye detalles sobre los pedidos realizados, cobranzas, productos, clientes, y su estatus de envío.
-Datos de visitas médicas: Recopilamos información sobre las visitas a médicos, incluyendo la especialidad, la fecha y la hora de la visita, y los médicos visitados.
-3. Cómo Utilizamos la Información
-Utilizamos la información recopilada para los siguientes propósitos:
+1. Información que Recopilamos
+Ubicación: Accedemos a su ubicación aproximada y precisa para proporcionar servicios clave de la aplicación, como la gestión de rutas y visitas médicas. Esta información es esencial para el correcto funcionamiento de la aplicación.
+Datos Temporales: Guardamos ciertos datos temporalmente en su dispositivo para mejorar la experiencia de usuario y permitir el uso de la aplicación en modo sin conexión.
+API de Google Maps: Utilizamos la API de Google Maps para visualizar mapas y proporcionar direcciones en tiempo real. Esto requiere acceso a su ubicación actual.
+2. Uso de la Información
+Ubicación: Utilizamos su ubicación para optimizar las funciones relacionadas con ventas y visitas médicas, como la planificación de rutas y la geolocalización de clientes.
+Datos Temporales: Los datos almacenados temporalmente en su dispositivo se usan para asegurar la continuidad del servicio, especialmente en áreas con conectividad limitada.
+Google Maps: La API de Google Maps se emplea para ofrecer mapas interactivos y guiar a los usuarios en sus recorridos.
+3. Compartición de la Información
+No compartimos su información personal con terceros, salvo que sea necesario para cumplir con la ley o con su consentimiento explícito.
 
-Procesamiento de pedidos y cobranzas: Para gestionar los pedidos y cobranzas de los clientes y asegurar la correcta entrega y cobro de productos.
-Seguimiento de visitas médicas: Para registrar y gestionar las visitas a médicos, facilitando la planificación y seguimiento de las visitas futuras.
-Actualización de geolocalización precisa: Para asegurar que la ubicación de los clientes esté actualizada, permitiendo un servicio más preciso. Los datos de ubicación se utilizan solo mientras son necesarios para cumplir con esta función específica.
-Mejora del servicio: Para analizar el uso de la aplicación y mejorar su funcionalidad y experiencia de usuario.
+4. Seguridad de la Información
+Nos tomamos en serio la seguridad de su información personal. Implementamos medidas técnicas y organizativas para proteger sus datos contra el acceso no autorizado, la alteración o la divulgación.
 
-4. Uso de SDKs y Bibliotecas de Terceros
-Nuestra aplicación puede utilizar SDKs y bibliotecas de terceros para mejorar la funcionalidad y experiencia del usuario. Es posible que estos SDKs recojan y transfieran datos de usuario fuera del dispositivo, como información de geolocalización, identificadores de dispositivo, o datos de uso. Estos datos son manejados de acuerdo con las políticas de privacidad de los proveedores de dichos SDKs.
+5. Retención de la Información
+Retenemos su información solo durante el tiempo necesario para cumplir con los propósitos establecidos en esta política de privacidad o según lo exija la ley aplicable.
 
-Nos aseguramos de que todos los SDKs y bibliotecas de terceros utilizados en nuestra aplicación cumplan con las normativas de privacidad y protejan adecuadamente la información de los usuarios. Sin embargo, es tu responsabilidad revisar las políticas de privacidad de estos terceros para entender cómo manejan tus datos.
+6. Sus Derechos
+Usted tiene derecho a acceder, corregir o eliminar su información personal en cualquier momento. Para ejercer estos derechos, por favor, póngase en contacto con nosotros a través de [correo electrónico de contacto].
 
-5. Compartir Información con Terceros
-
-Proveedores de Servicios: Podemos compartir su información con terceros que prestan servicios en nuestro nombre, como Google Maps para geolocalización. Estos terceros están obligados a proteger su información y solo pueden utilizarla para los fines especificados.
-Requisitos Legales: Podemos divulgar su información si así lo exige la ley o si creemos de buena fe que dicha acción es necesaria para cumplir con una obligación legal.
-
-6. Seguridad de la Información
-Tomamos medidas razonables para proteger su información personal contra acceso no autorizado, alteración, divulgación o destrucción. Sin embargo, ningún método de transmisión por internet o almacenamiento electrónico es completamente seguro, por lo que no podemos garantizar la seguridad absoluta.
-
-7. Cambios en la Política de Privacidad
-Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Cualquier cambio será publicado en esta página y se te notificará a través de la aplicación.
+7. Cambios a esta Política de Privacidad
+Podemos actualizar esta política de privacidad en cualquier momento. Le notificaremos sobre cualquier cambio significativo mediante la aplicación o por otros medios adecuados.
 
 8. Contacto
-Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad o nuestras prácticas, puede contactarnos en neorvd@gmail.com.
+Si tiene preguntas o inquietudes sobre esta política de privacidad, no dude en contactarnos en neorvd@gmail.com.
