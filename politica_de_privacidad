@@ -1,6 +1,6 @@
 Política de Privacidad de Farmedical - Venta Móvil
 
-Última actualización: 2024-09-09
+Última actualización: 2025-06-28
 
 En "Farmedical - Venta Móvil", respetamos su privacidad y estamos comprometidos a proteger sus datos personales. 
 Esta política de privacidad describe cómo recopilamos, utilizamos y salvaguardamos su información cuando usa nuestra 
@@ -16,6 +16,8 @@ El acceso a la ubicación es continuo mientras la aplicación está activa, para
 Datos Temporales: Guardamos ciertos datos temporalmente en su dispositivo para mejorar la experiencia de usuario y 
 permitir el uso de la aplicación en modo sin conexión.
 
+Almacenamiento y Descarga de Imágenes: Solicitamos permisos para acceder, leer y escribir en el almacenamiento de su dispositivo, incluyendo la gestión de archivos e imágenes, con el único propósito de permitir la descarga y almacenamiento de códigos QR generados por la aplicación. Estos permisos se utilizan exclusivamente para guardar imágenes de QR en su dispositivo cuando usted lo solicita. No accedemos ni compartimos otros archivos personales almacenados en su dispositivo.
+
 API de Google Maps: Utilizamos la API de Google Maps para visualizar mapas y proporcionar direcciones en tiempo real. 
 Esto requiere acceso a su ubicación actual.
 
@@ -27,6 +29,8 @@ sin su consentimiento explícito y se utiliza únicamente para los fines descrit
 
 Datos Temporales: Los datos almacenados temporalmente en su dispositivo se usan para asegurar la continuidad del 
 servicio, especialmente en áreas con conectividad limitada. No se comparten con terceros.
+
+Almacenamiento y Descarga de Imágenes: El acceso al almacenamiento se utiliza únicamente para guardar imágenes de códigos QR generados por la aplicación. No accedemos, recopilamos ni compartimos otros datos almacenados en su dispositivo.
 
 Google Maps: La API de Google Maps se emplea para ofrecer mapas interactivos y guiar a los usuarios en sus recorridos.
 
